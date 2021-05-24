@@ -3,4 +3,6 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
 # 实验截图
 
-![image](https://user-images.githubusercontent.com/59532585/118677910-32c9ed00-b82f-11eb-9bf8-ab687d70066f.png)
+![image](https://github.com/Laihaha/androidwork/blob/master/%E6%88%AA%E5%9B%BE/1.png)
+![image](https://github.com/Laihaha/androidwork/blob/master/%E6%88%AA%E5%9B%BE/2.png)
+![image](https://github.com/Laihaha/androidwork/blob/master/%E6%88%AA%E5%9B%BE/3.png)
